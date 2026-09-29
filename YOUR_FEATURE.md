@@ -1,6 +1,6 @@
 # YOUR FEATURE — Plot Device (Reading Journal)
 
-Welcome. The library list, SQLite schema, and GET routes already work. Your job is to finish write paths so someone can add books, move them through want → reading → done, delete them, and tag quotes.
+**Feature to implement.** The library list, SQLite schema, and GET routes already work. Own the write paths so someone can add books, move them through want → reading → done, delete them, and tag quotes.
 
 ---
 
@@ -41,7 +41,7 @@ Search for `TODO(your-name)` — each comment maps to a step below.
 
 ---
 
-## Hints
+## Implementation notes
 
 - `db.prepare(...).run(...)` / `.get(...)` / `.all(...)` — same style as the shipped GET handlers.
 - Foreign keys are on (`db.pragma("foreign_keys = ON")`). Deleting a book cleans up its quotes.

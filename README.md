@@ -30,7 +30,7 @@ cp .env.example .env
 
 **Start here → [`YOUR_FEATURE.md`](./YOUR_FEATURE.md)**
 
-Full beginner checklist: goal, files, numbered steps, hints, acceptance criteria, demo script, stretch.
+Ownership checklist: goal, files, numbered steps, implementation notes, acceptance criteria, demo script, stretch.
 
 In short: POST/PATCH/DELETE books, status flow want → reading → done, quote tags via `quote_tags`. Search for `TODO(your-name)` (each comment references a step number).
 
